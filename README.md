@@ -1,1 +1,5 @@
 # Stress-Prediction
+
+In today's fast-paced and demanding world, stress has become a significant health concern affecting individuals of all ages. The adverse impact of chronic stress on physical and mental well-being highlights the need for effective stress management strategies. Leveraging the rich data collected by these wearables, there is a significant opportunity to develop predictive models that can accurately assess and predict an individual's stress levels. By analyzing physiological measurements, activity patterns, and other relevant data points, such models can provide valuable insights into an individual's stress levels. 
+
+Many individuals are often unaware of their own stress levels and the impact it can have on their overall well-being. Stress can manifest in various ways, both physically and mentally, and its effects may go unnoticed until they escalate. This lack of awareness can lead to chronic stress, burnout, and other health issues. We aim to develop and implement a stress analytics solution that uses fitness data from smartwatches to predict stress.
