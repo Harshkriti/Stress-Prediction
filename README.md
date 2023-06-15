@@ -4,20 +4,22 @@ In today's fast-paced and demanding world, stress has become a significant healt
 
 Many individuals are often unaware of their own stress levels and the impact it can have on their overall well-being. Stress can manifest in various ways, both physically and mentally, and its effects may go unnoticed until they escalate. This lack of awareness can lead to chronic stress, burnout, and other health issues. We aim to develop and implement a stress analytics solution that uses fitness data from smartwatches to predict stress.
 
-The health data collected from users via the survey had over 100 features. Out of those, the most important features that are associated with Stress were selected which are:
+A survey was conducted among my classmates to collect the health data from Apple watch. This health data collected via the survey had over 100 features. Out of those, the most important features that are associated with Stress were selected which are:
 
-Blood Oxygen Saturation (%): Percentage of O2-saturated hemoglobin in the blood
+1. Blood Oxygen Saturation (%): Percentage of O2-saturated hemoglobin in the blood
 
-Heart Rate Variability (ms): Time between beats measured in milliseconds
+2. Heart Rate Variability (ms): Time between beats measured in milliseconds
 
-Respiratory Rate (count/min): Number of breaths per minute
+3. Respiratory Rate (count/min): Number of breaths per minute
 
-Sleep Analysis [Deep] (hr): Number of hours of Deep sleep
+4. Sleep Analysis [Deep] (hr): Number of hours of Deep sleep
 
-Sleep Analysis [REM] (hr): Number of hours of REM sleep
+5. Sleep Analysis [REM] (hr): Number of hours of REM sleep
 
-Step Count (count): Number of steps walked in a day
-Walking Heart Rate Average (count/min): Number of breaths per minute while walking
+6. Step Count (count): Number of steps walked in a day
+
+7. Walking Heart Rate Average (count/min): Number of breaths per minute while walking
+
 
 
 There are 2 models that were used for predicting stress-
